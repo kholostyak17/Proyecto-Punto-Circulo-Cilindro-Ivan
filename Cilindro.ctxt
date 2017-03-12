@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cilindro
+comment1.params=
+comment1.target=Cilindro()
+comment2.params=bs\ alt
+comment2.target=Cilindro(Circulo,\ double)
+comment3.params=
+comment3.target=Circulo\ base()
+comment4.params=
+comment4.target=double\ altura()
+comment5.params=bs
+comment5.target=void\ base(Circulo)
+comment6.params=alt
+comment6.target=void\ altura(double)
+comment7.params=a\ b
+comment7.target=void\ trasladar(double,\ double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

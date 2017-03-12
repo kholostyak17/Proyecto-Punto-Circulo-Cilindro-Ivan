@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=
+comment1.target=Punto()
+comment2.params=a\ b
+comment2.target=Punto(double,\ double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=p
+comment5.target=double\ distancia(Punto)
+comment6.params=a
+comment6.target=void\ x(double)
+comment7.params=b
+comment7.target=void\ y(double)
+comment8.params=a\ b
+comment8.target=void\ trasladar(double,\ double)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
